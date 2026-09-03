@@ -24,41 +24,37 @@ vlm_prompt_text = """You are given image(s) from a multi-page exam paper.
 Output JSON only, matching this example. If given more than one image in this call, output one JSON object per image. You may output multiple objects if given multiple images.
 
 Top-level fields:
-- page_number: this page's position among the image(s) given in this call, counting from 1.
+- page_number (dtype: integer): this page's position among the image(s) given in this call, counting from 1.
 
 Region types:
 - cover_page: cover/title content (title, subject, date, instructions, marks table). Box its actual visual extent, same as any other region. If nothing else except cover page is present on that specific page, mark the whole box as [0,0,1000,1000]. Judge this per page, not across every image given in this call.
-- mcq_question: a multiple-choice question.
-- oe_question: an open-ended question.
-- ak_mcq: an answer-key entry for a multiple-choice question.
-- ak_oe: an answer-key entry for an open-ended question.
+- mcq_question: Multiple Choice Question, a multiple-choice question.
+- oe_question: Open Ended, an open-ended question.
+- mcq_answer_key: Answer Key Multiple Choice Question, an answer-key entry for a multiple-choice question.
+- oe_answer_key: Answer Key Open Ended, an answer-key entry for an open-ended question.
 
 Each region also has:
-- question_number: the printed question number, or null if there isn't one.
-- fragment_index: starts at 1, increases if a question is split into multiple fragments.
-- needs_review: true if the boundary or label is uncertain.
-- box_2d: the region's bounding box as [ymin, xmin, ymax, xmax], normalized to integers 0-1000. (0,0) is the page's top-left corner, y increases downward, x increases rightward.
+- label (dtype: string | null): the printed question number/label, or null if there isn't one.
+- continuation (dtype: enum["start", "middle", "end", "single"]): "single" when the region fits on one page. When a question or answer spans multiple pages, output one box per page with the same type, paper, and label, and set "start", "middle", or "end" in page order.
+- box_2d (dtype: list of 4 integers): the region's bounding box as [ymin, xmin, ymax, xmax], normalized to integers 0-1000. (0,0) is the page's top-left corner, y increases downward, x increases rightward.
 - If uncertain about the exact boundary, extend into surrounding blank whitespace rather than cutting into the question's text
-- A cutoff region may be labeled as continuation
 
 <output_example>
-{"page_number": 1, "regions": [{"type": "mcq_question", "question_number": "12", "fragment_index": 1, "box_2d": [120, 80, 340, 900], "needs_review": false}]},
-{"page_number": 2, "regions": [{"type": "oe_question", "question_number": "2", "fragment_index": 1, "box_2d": [20, 80, 340, 600], "needs_review": true}]}
+{"page_number": 1, "regions": [{"type": "mcq_question", "label": "12", "continuation": "single", "box_2d": [120, 80, 340, 900]}]},
+{"page_number": 2, "regions": [{"type": "oe_question", "label": "2", "continuation": "start", "box_2d": [20, 80, 340, 600]}]}
 </output_example>
 
 """
 #modifiable
-
+continuation = Literal["start", "middle", "end", "single"]
 samplingTemperature = 0.0 #0 = deterministic/repeatable output, higher = more varied output. this setting shouldn't be changed.
 load_dotenv()
 # defaultBaseModel : str = "Qwen/Qwen3.5-4B"
 defaultBaseModel : str = "Qwen/Qwen3.6-35B-A3B"
 PixelBox = tuple[int, int, int, int]
-RegionType = Literal["cover_page", "mcq_question", "oe_question", "ak_mcq", "ak_oe"]
+RegionType = Literal["cover_page", "mcq_question", "oe_question", "mcq_answer_key", "oe_answer_key"]
 
 #initialization
-
-
 
 def build_parser() -> argparse.ArgumentParser:
     # Defines the "--message" flag required, must be a string.
@@ -68,6 +64,7 @@ def build_parser() -> argparse.ArgumentParser:
 
 
 def main(argv: list[str] | None = None) -> int:
+
     #testing delete later
     test_rendered_pages: list[RenderedPage] = [
         RenderedPage(page_number=2, path=outputPath / "page-2.png", width=1654, height=2339),
@@ -139,14 +136,6 @@ def main(argv: list[str] | None = None) -> int:
 ```
 """]
 
-    testAllDetections = [detection for raw_text in test_raw_responses for detection in extract_page_detections_batch(raw_text)]
-    # match each detection set to its rendered page by page_number, not list position
-    test_pages_by_number = {rendered_page.page_number: rendered_page for rendered_page in test_rendered_pages}
-    for detections in testAllDetections:
-        rendered_page = test_pages_by_number.get(detections.page_number)
-        if rendered_page is None:
-            raise ValueError(f"no rendered page found for page_number={detections.page_number}")
-        materialize_page_detections(rendered_page.path, detections, outputPath)
     #testing delete later
 
     return 0
@@ -239,9 +228,6 @@ def main(argv: list[str] | None = None) -> int:
         else :
             materialize_page_detections(rendered_page.path, detections, outputPath)
 
-    # receive output from VLM about their regions in required format
-    # useful regions in RegionType ["mcq_question", "oe_question", "ak_mcq", "ak_oe"]
-    # and their bounding height, aka received PageDetections
 
     # train the VLM
 
@@ -280,10 +266,6 @@ class DetectedRegion(BaseModel):
         description=(
             "Bounding box [ymin, xmin, ymax, xmax], normalized to integers 0-1000."
         ),
-    )
-    needs_review: bool = Field(
-        default=False,
-        description="True when the region boundary or label is uncertain.",
     )
 
     @field_validator("box_2d")
@@ -439,6 +421,30 @@ def normalized_box_to_pixels(box_2d: Sequence[int], *, width: int, height: int, 
     right = min(width, math.ceil(xmax * width / 1000) + padding)
     bottom = min(height, math.ceil(ymax * height / 1000) + padding)
     return left, top, right, bottom
+
+
+def box_iou(box_a: Sequence[int, int, int, int], box_b: Sequence[int, int, int, int]) -> float:
+    # Intersection over Union between two [ymin, xmin, ymax, xmax] boxes.
+    a_ymin, a_xmin, a_ymax, a_xmax = box_a
+    b_ymin, b_xmin, b_ymax, b_xmax = box_b
+
+    overlap_ymin = max(a_ymin, b_ymin)
+    overlap_xmin = max(a_xmin, b_xmin)
+    overlap_ymax = min(a_ymax, b_ymax)
+    overlap_xmax = min(a_xmax, b_xmax)
+
+    overlap_height = max(0, overlap_ymax - overlap_ymin)
+    overlap_width = max(0, overlap_xmax - overlap_xmin)
+    overlap_area = overlap_height * overlap_width
+
+    box_a_area = (a_ymax - a_ymin) * (a_xmax - a_xmin)
+    box_b_area = (b_ymax - b_ymin) * (b_xmax - b_xmin)
+    union_area = box_a_area + box_b_area - overlap_area
+
+    if union_area == 0:
+        return 0.0
+
+    return overlap_area / union_area
 
 
 # Copied from: experiments/gemini-3.5/src/gemini_paper_crop/images.py
