@@ -1,0 +1,23 @@
+[
+  {"page":1,"regions":[{"type":"cover_page","paper":null,"label":null,"continuation":"single","box_2d":[37,78,331,855]}]},
+  {"page":1,"regions":[{"type":"mcq_question","paper":null,"label":"1","continuation":"single","box_2d":[334,0,677,1000]}]},
+  {"page":2,"regions":[]},
+  {"page":3,"regions":[{"type":"mcq_question","paper":null,"label":"2","continuation":"single","box_2d":[76,0,385,1000]}]},
+  {"page":3,"regions":[{"type":"mcq_question","paper":null,"label":"3","continuation":"single","box_2d":[394,0,837,1000]}]},
+  {"page":4,"regions":[{"type":"mcq_question","paper":null,"label":"4","continuation":"single","box_2d":[70,0,399,1000]}]},
+  {"page":4,"regions":[{"type":"mcq_question","paper":null,"label":"5","continuation":"single","box_2d":[406,0,815,1000]}]},
+  {"page":5,"regions":[{"type":"mcq_question","paper":null,"label":"6","continuation":"single","box_2d":[81,0,472,1000]}]},
+  {"page":5,"regions":[{"type":"mcq_question","paper":null,"label":"7","continuation":"single","box_2d":[477,0,855,1000]}]},
+  {"page":6,"regions":[{"type":"mcq_question","paper":null,"label":"8","continuation":"single","box_2d":[72,0,387,1000]}]},
+  {"page":6,"regions":[{"type":"mcq_question","paper":null,"label":"9","continuation":"single","box_2d":[392,0,730,1000]}]},
+  {"page":7,"regions":[{"type":"mcq_question","paper":null,"label":"10","continuation":"single","box_2d":[81,0,604,1000]}]},
+  {"page":8,"regions":[{"type":"oe_question","paper":null,"label":"11","continuation":"single","box_2d":[176,0,829,1000]}]},
+  {"page":9,"regions":[{"type":"oe_question","paper":null,"label":"12","continuation":"single","box_2d":[84,0,850,1000]}]},
+  {"page":10,"regions":[{"type":"oe_question","paper":null,"label":"13","continuation":"single","box_2d":[77,0,855,1000]}]},
+  {"page":11,"regions":[{"type":"cover_page","paper":null,"label":null,"continuation":"single","box_2d":[84,127,276,632]}]},
+  {"page":11,"regions":[{"type":"mcq_answer_key","paper":null,"label":null,"continuation":"single","box_2d":[267,136,328,851]}]},
+  {"page":11,"regions":[{"type":"oe_answer_key","paper":null,"label":"11","continuation":"single","box_2d":[345,144,428,851]}]},
+  {"page":11,"regions":[{"type":"oe_answer_key","paper":null,"label":"12","continuation":"single","box_2d":[421,146,522,852]}]},
+  {"page":11,"regions":[{"type":"oe_answer_key","paper":null,"label":"13","continuation":"single","box_2d":[515,147,758,856]}]},
+  {"page":12,"regions":[]}
+]

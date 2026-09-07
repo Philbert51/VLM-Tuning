@@ -1,0 +1,11 @@
+page 1 : cover page all
+page 2 : a blank page
+page 21 : a cover page all
+page 22 : a blank page
+page 38 : blank page 
+
+fix 33a
+
+confirm they are indeed correct
+
+no paper label found

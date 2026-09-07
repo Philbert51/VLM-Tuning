@@ -179,3 +179,7 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+# Large project data -- supplied or derived datasets, not the code deliverable
+main/data/
+main/needs_review/
+main/output/

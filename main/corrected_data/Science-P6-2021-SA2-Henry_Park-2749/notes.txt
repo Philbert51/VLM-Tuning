@@ -1,0 +1,5 @@
+page 1 : cover page all
+page 2 : blank page
+page 29 : cover page all
+page 49 : cover page only a certain area
+page 52 : blank page

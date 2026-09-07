@@ -5,14 +5,24 @@ requires-python = ">=3.12"
 dependencies = [
     "argparse>=1.4.0",
     "dotenv>=0.9.9",
+    "matplotlib>=3.11.1",
+    "opencv-python>=5.0.0.93",
     "pillow>=12.3.0",
     "pydantic>=2.13.5",
     "pymupdf>=1.28.2",
     "tinker>=0.27.0",
+    "torch>=2.14.0",
+    "torchvision>=0.29.0",
+    "transformers>=5.16.1",
 ]
 
 [project.scripts]
 main = "main.main:main"
+train = "main.main:train"
+spendings = "main.main:spendings"
+get-training-run = "main.main:training_run"
+sample-runid = "main.main:sample_runid"
+testing = "main.main:testing"
 
 [build-system]
 requires = ["hatchling"]

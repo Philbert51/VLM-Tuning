@@ -1,0 +1,81 @@
+logging to C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\log.txt
+processing Maths-P5-2021-CA1-Anglo_Chinese-2519-done...
+  built 9 example(s) for Maths-P5-2021-CA1-Anglo_Chinese-2519-done
+processing Maths-P5-2021-SA1-Methodist_Girls-2528-done...
+  built 11 example(s) for Maths-P5-2021-SA1-Methodist_Girls-2528-done
+processing Maths-P5-2022-CA2-Rosyth-2054-done...
+  built 13 example(s) for Maths-P5-2022-CA2-Rosyth-2054-done
+processing Maths-P5-2024-SA2-Raffles_Girls-3110-done...
+  built 37 example(s) for Maths-P5-2024-SA2-Raffles_Girls-3110-done
+processing Science-P5-2021-CA1-Catholic_High-2558-done...
+  built 11 example(s) for Science-P5-2021-CA1-Catholic_High-2558-done
+processing Science-P5-2024-CA1-Maha_Bodhi-2941-done...
+  built 13 example(s) for Science-P5-2024-CA1-Maha_Bodhi-2941-done
+processing Science-P6-2021-SA2-Henry_Park-2749...
+  built 51 example(s) for Science-P6-2021-SA2-Henry_Park-2749
+processing Science-P6-2021-SA2-Nanyang-2733-done...
+  built 39 example(s) for Science-P6-2021-SA2-Nanyang-2733-done
+built 184 example(s) total across all papers
+training on 184 example(s)
+training client ready, run_id=f1bea322-64be-58aa-a516-3b33ba7370f1:train:0
+tokens per step: 176601 text + 1396928 image = 1573529, over 9 step(s), estimated cost: $16.6684
+confirm training configuration:
+  training_folder_path: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data
+  resume run_id: None
+  limit: None
+  num_steps: 9
+  learning_rate: 0.0005
+  loss_fn: cross_entropy
+  save_sampler_weights: True
+proceed with this configuration? [y/N]: starting training: 184 example(s), 9 step(s), learning_rate=0.0005
+building 184 training datum(s)...
+built 184 datum(s), starting 9 step(s)
+step 1/9: submitting forward_backward
+step 1/9: submitting optim_step
+step 1/9: waiting on forward_backward result
+step 1/9: waiting on optim_step result
+step 1/9 done, loss=0.3824
+step 2/9: submitting forward_backward
+step 2/9: submitting optim_step
+step 2/9: waiting on forward_backward result
+step 2/9: waiting on optim_step result
+step 2/9 done, loss=1.4371
+step 3/9: submitting forward_backward
+step 3/9: submitting optim_step
+step 3/9: waiting on forward_backward result
+step 3/9: waiting on optim_step result
+step 3/9 done, loss=0.2245
+step 4/9: submitting forward_backward
+step 4/9: submitting optim_step
+step 4/9: waiting on forward_backward result
+step 4/9: waiting on optim_step result
+step 4/9 done, loss=0.1973
+step 5/9: submitting forward_backward
+step 5/9: submitting optim_step
+step 5/9: waiting on forward_backward result
+step 5/9: waiting on optim_step result
+step 5/9 done, loss=0.1877
+step 6/9: submitting forward_backward
+step 6/9: submitting optim_step
+step 6/9: waiting on forward_backward result
+step 6/9: waiting on optim_step result
+step 6/9 done, loss=0.1803
+step 7/9: submitting forward_backward
+step 7/9: submitting optim_step
+step 7/9: waiting on forward_backward result
+step 7/9: waiting on optim_step result
+step 7/9 done, loss=0.1725
+step 8/9: submitting forward_backward
+step 8/9: submitting optim_step
+step 8/9: waiting on forward_backward result
+step 8/9: waiting on optim_step result
+step 8/9 done, loss=0.1656
+step 9/9: submitting forward_backward
+step 9/9: submitting optim_step
+step 9/9: waiting on forward_backward result
+step 9/9: waiting on optim_step result
+step 9/9 done, loss=0.1596
+training loop finished, saving checkpoint...
+run_id: f1bea322-64be-58aa-a516-3b33ba7370f1:train:0
+checkpoint saved to: tinker://f1bea322-64be-58aa-a516-3b33ba7370f1:train:0/weights/checkpoint-final
+sampler weights saved to: tinker://f1bea322-64be-58aa-a516-3b33ba7370f1:train:0/sampler_weights/checkpoint-final

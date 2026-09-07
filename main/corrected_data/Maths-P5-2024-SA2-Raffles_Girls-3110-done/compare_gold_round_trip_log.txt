@@ -1,0 +1,422 @@
+logging to C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\compare_gold_round_trip_log.txt
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\mcq_answer_key\all\unlabelled\01.jpg
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\mcq_question\paper1\1\01.jpg
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\mcq_question\paper1\1\02.jpg
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\mcq_question\paper1\1\03.jpg
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\mcq_answer_key\all\unlabelled\01.jpg
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\mcq_question\paper1\2\01.jpgScanned 1/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\mcq_question\paper1\1\01.jpg
+
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\mcq_question\paper1\2\02.jpgScanned 2/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\mcq_question\paper1\1\03.jpg
+
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\mcq_question\paper1\3\01.jpgScanned 3/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\mcq_question\paper1\1\02.jpg
+
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\mcq_question\paper1\3\02.jpgScanned 4/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\mcq_question\paper1\2\02.jpg
+
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\mcq_question\paper1\4\01.jpgScanned 5/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\mcq_question\paper1\3\01.jpg
+
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\mcq_question\paper1\4\02.jpgScanned 6/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\mcq_question\paper1\4\01.jpg
+
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\mcq_question\paper1\4\03.jpgScanned 7/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\mcq_question\paper1\2\01.jpg
+
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\mcq_question\paper1\5\01.jpgScanned 8/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\mcq_question\paper1\3\02.jpg
+
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\mcq_question\paper1\5\02.jpgScanned 9/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\mcq_question\paper1\4\02.jpg
+
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\mcq_question\paper1\6\01.jpgScanned 10/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\mcq_question\paper1\4\03.jpg
+
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\mcq_question\paper1\6\02.jpgScanned 11/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\mcq_question\paper1\5\02.jpg
+
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\mcq_question\paper1\6\03.jpgScanned 12/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\mcq_question\paper1\5\01.jpg
+
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper1\16\01.jpgScanned 13/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\mcq_question\paper1\6\01.jpg
+
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper1\16\01.jpg
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper1\17\01.jpgScanned 14/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\mcq_question\paper1\6\02.jpg
+
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper1\18\01.jpgScanned 15/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\mcq_question\paper1\6\03.jpg
+
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper1\17\01.jpg
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper1\18\01.jpg
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper1\19\01.jpgScanned 16/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper1\16\01.jpg
+
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper1\20\01.jpgScanned 17/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper1\18\01.jpg
+
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper1\21\01.jpgScanned 18/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper1\17\01.jpg
+
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper1\22\01.jpgScanned 19/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\mcq_answer_key\all\unlabelled\01.jpg
+
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper1\20\01.jpg
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper1\19\01.jpg
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper1\21\01.jpg
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper1\23\01.jpgScanned 20/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper1\20\01.jpg
+
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper1\24\01.jpgScanned 21/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper1\19\01.jpg
+
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper1\25\01.jpgScanned 22/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper1\21\01.jpg
+
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper1\22\01.jpg
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper1\26\01.jpgScanned 23/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper1\22\01.jpg
+
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper1\23\01.jpg
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper1\24\01.jpg
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper1\25\01.jpg
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper1\27\01.jpgScanned 24/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper1\23\01.jpg
+
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper1\28\01.jpgScanned 25/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper1\24\01.jpg
+
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper1\26\01.jpg
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper1\29\01.jpgScanned 26/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper1\25\01.jpg
+
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper1\30\01.jpgScanned 27/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper1\26\01.jpg
+
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper1\27\01.jpg
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper1\28\01.jpg
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper1\29\01.jpg
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\1\01.jpgScanned 28/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper1\27\01.jpg
+
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper1\30\01.jpg
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\2\01.jpgScanned 29/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper1\29\01.jpg
+
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\3\01.jpgScanned 30/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper1\28\01.jpg
+
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\4\01.jpgScanned 31/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper1\30\01.jpg
+
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\1\01.jpg
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\2\01.jpg
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\3\01.jpg
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\5\01.jpgScanned 32/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\2\01.jpg
+
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\6\01.jpgScanned 33/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\3\01.jpg
+
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\4\01.jpg
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\7\01.jpgScanned 34/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\1\01.jpg
+
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\8\01.jpgScanned 35/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\4\01.jpg
+
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\5\01.jpg
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\6\01.jpg
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\7\01.jpg
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\9\01.jpgScanned 36/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\5\01.jpg
+
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\10\01.jpgScanned 37/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\6\01.jpg
+
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\8\01.jpg
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\11\01.jpgScanned 38/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\7\01.jpg
+
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\9\01.jpg
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\10\01.jpg
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\12\01.jpgScanned 39/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\8\01.jpg
+
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\13\Screenshot 2026-09-07 131050.pngScanned 40/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\10\01.jpg
+
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\11\01.jpg
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\13\Screenshot 2026-09-07 131116.pngScanned 41/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\9\01.jpg
+
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\13\Screenshot 2026-09-07 131050.png
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\12\01.jpg
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\13\Screenshot 2026-09-07 131116.png
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\14\01.jpgScanned 42/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\13\Screenshot 2026-09-07 131050.png
+
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\15\01.jpgScanned 43/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\13\Screenshot 2026-09-07 131116.png
+
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\16\01.jpgScanned 44/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\11\01.jpg
+
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\17\01.jpgScanned 45/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\12\01.jpg
+
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\14\01.jpg
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\15\01.jpg
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\16\01.jpg
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper1\16\01.jpgScanned 46/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\14\01.jpg
+
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\17\01.jpg
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper1\17\01.jpgScanned 47/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\15\01.jpg
+
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper1\18\01.jpgScanned 48/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\16\01.jpg
+
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper1\18\01.jpg
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper1\19\01.jpgScanned 49/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper1\18\01.jpg
+
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper1\20\01.jpgScanned 50/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper1\17\01.jpg
+
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper1\20\01.jpg
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper1\21\01.jpgScanned 51/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper1\16\01.jpg
+
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper1\21\01.jpg
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper1\22\01.jpgScanned 52/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_answer_key\paper2\17\01.jpg
+
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper1\22\01.jpg
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper1\23\01.jpgScanned 53/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper1\19\01.jpg
+
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper1\23\01.jpg
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper1\24\01.jpgScanned 54/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper1\21\01.jpg
+
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper1\24\01.jpg
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper1\25\01.jpgScanned 55/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper1\20\01.jpg
+
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper1\26\01.jpgScanned 56/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper1\25\01.jpg
+
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper1\26\01.jpg
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper1\27\01.jpgScanned 57/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper1\23\01.jpg
+
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper1\28\01.jpgScanned 58/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper1\27\01.jpg
+
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper1\29\01.jpgScanned 59/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper1\22\01.jpg
+
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper1\30\01.jpgScanned 60/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper1\28\01.jpg
+
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper1\30\01.jpg
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\1\01.jpgScanned 61/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper1\29\01.jpg
+
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\1\01.jpg
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\2\01.jpgScanned 62/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper1\26\01.jpg
+
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\2\01.jpg
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\3\01.jpgScanned 63/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\2\01.jpg
+
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\3\01.jpg
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\4\01.jpgScanned 64/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper1\30\01.jpg
+
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\4\01.jpg
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\5\01.jpgScanned 65/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper1\24\01.jpg
+
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\5\01.jpg
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\6\01.jpgScanned 66/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\3\01.jpg
+
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\6\01.jpg
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\7\01.jpgScanned 67/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\1\01.jpg
+
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\7\01.jpg
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\8\01.jpgScanned 68/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\5\01.jpg
+
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\8\01.jpg
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\9\01.jpgScanned 69/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\4\01.jpg
+
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\9\01.jpg
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\10\01.jpgScanned 70/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\6\01.jpg
+
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\10\01.jpg
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\11\01.jpgScanned 71/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\8\01.jpg
+
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\11\01.jpg
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\12\01.jpgScanned 72/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\10\01.jpg
+
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\12\01.jpg
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\13\01.jpgScanned 73/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\9\01.jpg
+
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\13\01.jpg
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\14\01.jpgScanned 74/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\11\01.jpg
+
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\14\01.jpg
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\15\01.jpgScanned 75/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\12\01.jpg
+
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\15\01.jpg
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\16\01.jpgScanned 76/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\14\01.jpg
+
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\16\01.jpg
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\17\01.jpgScanned 77/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\7\01.jpg
+
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\17\01.jpg
+Scanning: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\Screenshot 2026-09-07 130920.pngScanned 78/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\15\01.jpg
+
+SIFT fallback triggered: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\Screenshot 2026-09-07 130920.png
+Scanned 79/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\Screenshot 2026-09-07 130920.png
+Scanned 80/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\16\01.jpg
+Scanned 81/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\17\01.jpg
+Scanned 82/82: C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\gold\oe_question\paper2\13\01.jpg
+Matched: page=35, pixel_box=(271, 593, 1473, 891), box_2d=[254, 164, 381, 891]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\01\overlays\page-35.png, 1 crop(s)
+Matched: page=2, pixel_box=(0, 489, 1654, 873), box_2d=[209, 0, 373, 1000]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\02\overlays\page-2.png, 1 crop(s)
+Matched: page=2, pixel_box=(0, 911, 1654, 1292), box_2d=[390, 0, 553, 1000]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\03\overlays\page-2.png, 1 crop(s)
+Matched: page=2, pixel_box=(0, 1349, 1654, 1746), box_2d=[577, 0, 747, 1000]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\04\overlays\page-2.png, 1 crop(s)
+Matched: page=3, pixel_box=(0, 230, 1654, 663), box_2d=[98, 0, 284, 1000]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\05\overlays\page-3.png, 1 crop(s)
+Matched: page=3, pixel_box=(0, 704, 1654, 1346), box_2d=[301, 0, 576, 1000]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\06\overlays\page-3.png, 1 crop(s)
+Matched: page=4, pixel_box=(0, 251, 1654, 1187), box_2d=[107, 0, 508, 1000]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\07\overlays\page-4.png, 1 crop(s)
+Matched: page=4, pixel_box=(0, 1225, 1654, 1646), box_2d=[524, 0, 704, 1000]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\08\overlays\page-4.png, 1 crop(s)
+Matched: page=5, pixel_box=(0, 225, 1654, 924), box_2d=[96, 0, 395, 1000]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\09\overlays\page-5.png, 1 crop(s)
+Matched: page=5, pixel_box=(0, 953, 1654, 1390), box_2d=[408, 0, 595, 1000]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\10\overlays\page-5.png, 1 crop(s)
+Matched: page=5, pixel_box=(0, 1452, 1654, 1921), box_2d=[621, 0, 822, 1000]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\11\overlays\page-5.png, 1 crop(s)
+Matched: page=6, pixel_box=(0, 268, 1654, 706), box_2d=[115, 0, 302, 1000]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\12\overlays\page-6.png, 1 crop(s)
+Matched: page=6, pixel_box=(0, 714, 1654, 1464), box_2d=[305, 0, 626, 1000]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\13\overlays\page-6.png, 1 crop(s)
+Matched: page=7, pixel_box=(0, 230, 1654, 978), box_2d=[98, 0, 418, 1000]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\14\overlays\page-7.png, 1 crop(s)
+Matched: page=7, pixel_box=(0, 1019, 1654, 1588), box_2d=[436, 0, 679, 1000]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\15\overlays\page-7.png, 1 crop(s)
+Matched: page=7, pixel_box=(0, 1617, 1654, 2007), box_2d=[692, 0, 858, 1000]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\16\overlays\page-7.png, 1 crop(s)
+Matched: page=35, pixel_box=(277, 953, 1452, 1046), box_2d=[408, 167, 447, 878]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\17\overlays\page-35.png, 1 crop(s)
+Matched: page=35, pixel_box=(275, 1006, 1451, 1116), box_2d=[430, 166, 477, 877]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\18\overlays\page-35.png, 1 crop(s)
+Matched: page=35, pixel_box=(273, 1076, 1462, 1169), box_2d=[460, 165, 500, 884]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\19\overlays\page-35.png, 1 crop(s)
+Matched: page=35, pixel_box=(271, 1129, 1447, 1239), box_2d=[483, 164, 530, 875]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\20\overlays\page-35.png, 1 crop(s)
+Matched: page=35, pixel_box=(269, 1199, 1445, 1293), box_2d=[513, 163, 553, 874]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\21\overlays\page-35.png, 1 crop(s)
+Matched: page=35, pixel_box=(267, 1253, 1443, 1399), box_2d=[536, 161, 598, 872]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\22\overlays\page-35.png, 1 crop(s)
+Matched: page=35, pixel_box=(263, 1359, 1441, 1506), box_2d=[581, 159, 644, 871]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\23\overlays\page-35.png, 1 crop(s)
+Matched: page=35, pixel_box=(259, 1466, 1437, 1659), box_2d=[627, 157, 710, 869]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\24\overlays\page-35.png, 1 crop(s)
+Matched: page=35, pixel_box=(254, 1619, 1433, 1801), box_2d=[692, 154, 770, 866]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\25\overlays\page-35.png, 1 crop(s)
+Matched: page=35, pixel_box=(247, 1761, 1433, 2065), box_2d=[753, 149, 883, 866]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\26\overlays\page-35.png, 1 crop(s)
+Matched: page=36, pixel_box=(239, 293, 1412, 449), box_2d=[125, 144, 192, 854]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\27\overlays\page-36.png, 1 crop(s)
+Matched: page=36, pixel_box=(242, 418, 1417, 611), box_2d=[179, 146, 261, 857]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\28\overlays\page-36.png, 1 crop(s)
+Matched: page=36, pixel_box=(245, 579, 1427, 1051), box_2d=[248, 148, 450, 863]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\29\overlays\page-36.png, 1 crop(s)
+Matched: page=36, pixel_box=(255, 1019, 1429, 1156), box_2d=[436, 154, 494, 864]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\30\overlays\page-36.png, 1 crop(s)
+Matched: page=36, pixel_box=(258, 1124, 1433, 1352), box_2d=[481, 156, 578, 866]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\31\overlays\page-36.png, 1 crop(s)
+Matched: page=36, pixel_box=(263, 1450, 1435, 1622), box_2d=[620, 159, 694, 868]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\32\overlays\page-36.png, 1 crop(s)
+Matched: page=36, pixel_box=(266, 1590, 1436, 1711), box_2d=[680, 161, 732, 868]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\33\overlays\page-36.png, 1 crop(s)
+Matched: page=36, pixel_box=(268, 1679, 1438, 1818), box_2d=[718, 162, 778, 869]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\34\overlays\page-36.png, 1 crop(s)
+Matched: page=36, pixel_box=(271, 1786, 1443, 2008), box_2d=[764, 164, 859, 872]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\35\overlays\page-36.png, 1 crop(s)
+Matched: page=37, pixel_box=(285, 231, 1476, 380), box_2d=[99, 172, 163, 892]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\36\overlays\page-37.png, 1 crop(s)
+Matched: page=37, pixel_box=(282, 342, 1473, 487), box_2d=[146, 170, 208, 891]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\37\overlays\page-37.png, 1 crop(s)
+Matched: page=37, pixel_box=(277, 449, 1470, 679), box_2d=[192, 167, 290, 889]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\38\overlays\page-37.png, 1 crop(s)
+Matched: page=37, pixel_box=(270, 641, 1465, 926), box_2d=[274, 163, 396, 886]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\39\overlays\page-37.png, 1 crop(s)
+Matched: page=37, pixel_box=(262, 887, 1458, 1222), box_2d=[379, 158, 523, 881]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\40\overlays\page-37.png, 1 crop(s)
+Matched: page=37, pixel_box=(257, 1184, 1450, 1382), box_2d=[506, 155, 591, 877]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\41\overlays\page-37.png, 1 crop(s)
+Matched: page=37, pixel_box=(249, 1344, 1445, 1662), box_2d=[575, 151, 711, 874]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\42\overlays\page-37.png, 1 crop(s)
+Matched: page=37, pixel_box=(242, 1624, 1437, 1908), box_2d=[695, 146, 816, 869]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\43\overlays\page-37.png, 1 crop(s)
+Matched: page=37, pixel_box=(239, 1874, 867, 2011), box_2d=[802, 144, 860, 524]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\44\overlays\page-37.png, 1 crop(s)
+Matched: page=38, pixel_box=(239, 238, 1407, 486), box_2d=[102, 144, 208, 851]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\45\overlays\page-38.png, 1 crop(s)
+Matched: page=38, pixel_box=(238, 465, 1420, 782), box_2d=[199, 144, 334, 859]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\46\overlays\page-38.png, 1 crop(s)
+Matched: page=38, pixel_box=(244, 751, 1424, 958), box_2d=[321, 148, 410, 861]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\47\overlays\page-38.png, 1 crop(s)
+Matched: page=38, pixel_box=(248, 927, 1429, 1174), box_2d=[396, 150, 502, 864]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\48\overlays\page-38.png, 1 crop(s)
+Matched: page=38, pixel_box=(253, 1142, 1439, 1590), box_2d=[488, 153, 680, 870]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\49\overlays\page-38.png, 1 crop(s)
+Matched: page=10, pixel_box=(0, 443, 1654, 918), box_2d=[189, 0, 393, 1000]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\50\overlays\page-10.png, 1 crop(s)
+Matched: page=10, pixel_box=(0, 917, 1654, 1619), box_2d=[392, 0, 692, 1000]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\51\overlays\page-10.png, 1 crop(s)
+Matched: page=10, pixel_box=(71, 1584, 1653, 2025), box_2d=[678, 43, 866, 999]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\52\overlays\page-10.png, 1 crop(s)
+Matched: page=11, pixel_box=(0, 273, 1654, 1108), box_2d=[117, 0, 474, 1000]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\53\overlays\page-11.png, 1 crop(s)
+Matched: page=11, pixel_box=(83, 1079, 1653, 1985), box_2d=[462, 50, 849, 999]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\54\overlays\page-11.png, 1 crop(s)
+Matched: page=12, pixel_box=(61, 535, 1651, 1460), box_2d=[229, 37, 624, 998]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\55\overlays\page-12.png, 1 crop(s)
+Matched: page=13, pixel_box=(169, 221, 1653, 1056), box_2d=[95, 102, 452, 999]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\56\overlays\page-13.png, 1 crop(s)
+Matched: page=13, pixel_box=(52, 1079, 1653, 2002), box_2d=[462, 31, 856, 999]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\57\overlays\page-13.png, 1 crop(s)
+Matched: page=14, pixel_box=(85, 303, 1653, 1544), box_2d=[130, 51, 660, 999]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\58\overlays\page-14.png, 1 crop(s)
+Matched: page=15, pixel_box=(0, 241, 1654, 1366), box_2d=[103, 0, 584, 1000]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\59\overlays\page-15.png, 1 crop(s)
+Matched: page=15, pixel_box=(83, 1349, 1653, 2018), box_2d=[577, 50, 863, 999]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\60\overlays\page-15.png, 1 crop(s)
+Matched: page=16, pixel_box=(0, 271, 1654, 1298), box_2d=[116, 0, 555, 1000]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\61\overlays\page-16.png, 1 crop(s)
+Matched: page=16, pixel_box=(0, 1296, 1654, 2003), box_2d=[554, 0, 857, 1000]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\62\overlays\page-16.png, 1 crop(s)
+Matched: page=17, pixel_box=(0, 237, 1654, 876), box_2d=[101, 0, 375, 1000]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\63\overlays\page-17.png, 1 crop(s)
+Matched: page=17, pixel_box=(119, 845, 1650, 1854), box_2d=[361, 72, 793, 998]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\64\overlays\page-17.png, 1 crop(s)
+Matched: page=19, pixel_box=(26, 440, 1652, 1471), box_2d=[188, 16, 629, 999]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\65\overlays\page-19.png, 1 crop(s)
+Matched: page=19, pixel_box=(23, 1459, 1648, 2047), box_2d=[624, 14, 876, 996]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\66\overlays\page-19.png, 1 crop(s)
+Matched: page=20, pixel_box=(41, 225, 1637, 984), box_2d=[96, 25, 421, 990]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\67\overlays\page-20.png, 1 crop(s)
+Matched: page=20, pixel_box=(11, 975, 1648, 2054), box_2d=[417, 7, 879, 996]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\68\overlays\page-20.png, 1 crop(s)
+Matched: page=21, pixel_box=(0, 217, 1648, 1962), box_2d=[93, 0, 839, 996]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\69\overlays\page-21.png, 1 crop(s)
+Matched: page=22, pixel_box=(11, 469, 1652, 2066), box_2d=[201, 7, 884, 999]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\70\overlays\page-22.png, 1 crop(s)
+Matched: page=23, pixel_box=(37, 187, 1633, 2013), box_2d=[80, 22, 861, 987]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\71\overlays\page-23.png, 1 crop(s)
+Matched: page=24, pixel_box=(15, 228, 1648, 1898), box_2d=[98, 9, 812, 996]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\72\overlays\page-24.png, 1 crop(s)
+Matched: page=25, pixel_box=(41, 191, 1622, 1998), box_2d=[82, 25, 855, 981]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\73\overlays\page-25.png, 1 crop(s)
+Matched: page=26, pixel_box=(4, 231, 1644, 2050), box_2d=[99, 2, 877, 994]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\74\overlays\page-26.png, 1 crop(s)
+Matched: page=27, pixel_box=(15, 183, 1633, 2039), box_2d=[78, 9, 872, 987]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\75\overlays\page-27.png, 1 crop(s)
+Matched: page=28, pixel_box=(7, 209, 1648, 1957), box_2d=[89, 4, 837, 996]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\76\overlays\page-28.png, 1 crop(s)
+Matched: page=29, pixel_box=(15, 123, 1633, 1987), box_2d=[53, 9, 850, 987]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\77\overlays\page-29.png, 1 crop(s)
+Matched: page=30, pixel_box=(11, 242, 1618, 2020), box_2d=[104, 7, 864, 978]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\78\overlays\page-30.png, 1 crop(s)
+Matched: page=31, pixel_box=(45, 179, 1622, 1986), box_2d=[77, 27, 849, 981]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\79\overlays\page-31.png, 1 crop(s)
+Matched: page=32, pixel_box=(30, 210, 1648, 1984), box_2d=[90, 18, 849, 996]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\80\overlays\page-32.png, 1 crop(s)
+Matched: page=33, pixel_box=(37, 154, 1652, 1872), box_2d=[66, 22, 801, 999]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\81\overlays\page-33.png, 1 crop(s)
+Matched: page=35, pixel_box=(271, 215, 1233, 439), box_2d=[92, 164, 188, 745]
+materialize_page_detections: saved overlay C:\Users\user\AppData\Local\Temp\teekathon-round-trip-qp2nvij4\materialized\82\overlays\page-35.png, 1 crop(s)
+C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\comparison\page-2.png
+C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\comparison\page-3.png
+C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\comparison\page-4.png
+C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\comparison\page-5.png
+C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\comparison\page-6.png
+C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\comparison\page-7.png
+C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\comparison\page-10.png
+C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\comparison\page-11.png
+C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\comparison\page-12.png
+C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\comparison\page-13.png
+C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\comparison\page-14.png
+C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\comparison\page-15.png
+C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\comparison\page-16.png
+C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\comparison\page-17.png
+C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\comparison\page-19.png
+C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\comparison\page-20.png
+C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\comparison\page-21.png
+C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\comparison\page-22.png
+C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\comparison\page-23.png
+C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\comparison\page-24.png
+C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\comparison\page-25.png
+C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\comparison\page-26.png
+C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\comparison\page-27.png
+C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\comparison\page-28.png
+C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\comparison\page-29.png
+C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\comparison\page-30.png
+C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\comparison\page-31.png
+C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\comparison\page-32.png
+C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\comparison\page-33.png
+C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\comparison\page-35.png
+C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\comparison\page-36.png
+C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\comparison\page-37.png
+C:\Users\user\Documents\GitHub\MyTeekathon\main\corrected_data\Maths-P5-2024-SA2-Raffles_Girls-3110\comparison\page-38.png

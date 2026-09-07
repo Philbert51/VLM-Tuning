@@ -1,0 +1,6 @@
+uv run python list_runs.py : list runs
+uv run python total_usage.py : usage across all run id listed
+uv run python check_all_runs_details.py : same with total usage but more detailed
+--training-folder-path C:\Users\<username>\Documents\GitHub\MyTeekathon\main\corrected_data --run-id 7579eb98-956e-5084-af79-223db210a7ca:train:0 --limit 9 --num-steps 2 : training
+
+cost does not include the storage cost of 0.10/GB in Tinker.
